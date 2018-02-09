@@ -1,2 +1,2 @@
-# Intermediate-Js-algorithms
-Intermediate JS algorithms code challenges
+# Intermediate-Js-Algorithms
+Intermediate JS algorithms -Code challenges-
